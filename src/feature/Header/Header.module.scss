@@ -1,0 +1,13 @@
+.Header {
+  background-color: #6db7ff;
+  .headerWrap {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    a {
+      color: #ffffff;
+    }
+  }
+}

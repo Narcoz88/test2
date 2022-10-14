@@ -1,0 +1,12 @@
+.wrapList {
+  padding-bottom: 20px;
+  max-width: 400px;
+  a {
+    display: grid;
+    grid-template-columns: 200px 1fr;
+  }
+
+  b {
+    text-align: end;
+  }
+}
